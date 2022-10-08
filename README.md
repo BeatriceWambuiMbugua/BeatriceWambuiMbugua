@@ -3,6 +3,8 @@
 # Bio 
 I am a software developer specializing in app development specifically mobile using Android. I am experienced in other languages such as Java, Ruby, and Javascript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. While I am not coding, I am mentoring young people in the world of tech and ensuring they incorporate the humane side in the tech industry. Welcome to my world 🌏🗺⛰
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=BeatriceWambuiMbugua)
+
 ## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=BeatriceWambuiMbugua&theme=radical&show_icons=true" alt="Github Stats"   width="47%"  
@@ -53,6 +55,7 @@ align="left"/>
 ### Design
 <img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/>
 
-
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
