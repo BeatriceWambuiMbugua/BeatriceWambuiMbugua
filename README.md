@@ -1,5 +1,6 @@
 # Hi there, I Am Beatrice! 👋
 
+<a href="https://beatricewambuimbugua.com/" target="_blank"><img src="https://thumbs2.imgbox.com/d1/1c/uUCfqV6H_t.png" alt="image host"/></a>
 # Bio 
 I am a software developer specializing in app development specifically mobile using Android. I am experienced in other languages such as Java, Ruby, and Javascript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. While I am not coding, I am mentoring young people in the world of tech and ensuring they incorporate the humane side in the tech industry. Welcome to my world 🌏🗺⛰
 
