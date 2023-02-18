@@ -8,8 +8,7 @@ I am a software developer specializing in app development specifically mobile us
 
 ## Github Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=BeatriceWambuiMbugua&theme=radical&show_icons=true" alt="Github Stats"   width="47%"  
-align="left"/>
+<img src="https://github-readme-stats.vercel.app/api?username=BeatriceWambuiMbugua&theme=radical&show_icons=true" alt="Github Stats"/>
 
 ![Beatrice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beatricewambui&theme=gotham&layout=compact)
 <br/>
