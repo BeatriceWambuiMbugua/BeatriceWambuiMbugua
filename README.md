@@ -12,14 +12,6 @@ I am a software developer specializing in app development specifically mobile us
 
 ![Beatrice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beatricewambui&theme=gotham&layout=compact)
 <br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
 
 # Tech Stacks
 
