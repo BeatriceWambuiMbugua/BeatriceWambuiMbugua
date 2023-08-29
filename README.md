@@ -8,6 +8,11 @@ I am a software developer specializing in app development specifically mobile us
 
 ## Github Stats
 
+
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=BeatriceWambuiMbugua&count_private=true&show_icons=true&theme=cobalt">
+  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=BeatriceWambuiMbugua&theme=gotham">
+</a>
+
 <img src="https://github-readme-stats.vercel.app/api?username=BeatriceWambuiMbugua&theme=radical&show_icons=true" alt="Github Stats"/>
 
 ![Beatrice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beatricewambui&theme=gotham&layout=compact)
