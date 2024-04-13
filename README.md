@@ -2,7 +2,8 @@
 
 <a href="https://beatricewambuimbugua.com/" target="_blank"><img src="https://thumbs2.imgbox.com/d1/1c/uUCfqV6H_t.png" alt="image host"/></a>
 # Bio 
-I am a software developer specializing in app development specifically mobile using Android. I am experienced in other languages such as Java, Ruby, and Javascript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. While I am not coding, I am mentoring young people in the world of tech and ensuring they incorporate the humane side in the tech industry. Welcome to my world 🌏🗺⛰
+
+I specialize in front-end development, where I use my creativity and technical knowledge to craft visually appealing user interfaces that provide an exceptional user experience. I love working with Figma, a powerful design tool that enables me to create stunning mockups and prototypes. When I'm not coding, I enjoy sharing my expertise by mentoring young people who aspire to be tech-savvy. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=BeatriceWambuiMbugua)
 
