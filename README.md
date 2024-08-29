@@ -10,7 +10,7 @@ I specialize in front-end development, where I use my creativity and technical k
 ## Github Stats
 
 
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=BeatriceWambuiMbugua&count_private=true&show_icons=true&theme=cobalt">
+<a href="https://github-readme-stats-bobos-projects-c5170b96.vercel.app/api?username=BeatriceWambuiMbugua&count_private=true&show_icons=true&theme=cobalt">
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=BeatriceWambuiMbugua&theme=gotham">
 </a>
 
