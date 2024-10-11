@@ -1,7 +1,6 @@
-# Hi there, I Am Beatrice! 👋
+<img width="1440" alt="Screenshot 2024-10-11 at 19 15 08" src="https://github.com/user-attachments/assets/d1aa89a8-c0e3-4b64-8efc-395179c16462">
 
-<a href="https://beatricewambuimbugua.com/" target="_blank"><img src="https://thumbs2.imgbox.com/d1/1c/uUCfqV6H_t.png" alt="image host"/></a>
-# Bio 
+## Hi there, I Am Beatrice! 👋
 
 I specialize in front-end development, where I use my creativity and technical knowledge to craft visually appealing user interfaces that provide an exceptional user experience. I love working with Figma, a powerful design tool that enables me to create stunning mockups and prototypes. When I'm not coding, I enjoy sharing my expertise by mentoring young people who aspire to be tech-savvy. I emphasize the importance of approaching technology with empathy and a human touch, as I believe this is what sets great developers apart. Welcome to my world 🌍, where design 🎨 and humanity 👏🏾 meet to create amazing user experiences!
 
