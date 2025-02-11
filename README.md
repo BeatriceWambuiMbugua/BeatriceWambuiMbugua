@@ -16,6 +16,7 @@ I specialize in front-end development, where I use my creativity and technical k
 <img src="https://github-readme-stats.vercel.app/api?username=BeatriceWambuiMbugua&theme=radical&show_icons=true" alt="Github Stats"/>
 
 ![Beatrice's wakatime stats](https://github-readme-stats-bobos-projects-c5170b96.vercel.app/api/wakatime?username=beatricewambui&theme=gotham&layout=compact)
+
 <br/>
 
 # Tech Stacks
